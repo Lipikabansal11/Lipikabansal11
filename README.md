@@ -25,7 +25,9 @@ Engineering, to me, is more than writing code or designing circuits—it's about
 **Simulation & Verification** → Vivado, Icarus Verilog, GTKWave, MATLAB/Simulink
 
 ## 🖇️ Connect With Me
-**LinkedIn** → [Lipika]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/lipika-bansal-605a0a323/))
-**Instagram** → [lipika112006]([https://instagram.com/yourusername](https://www.instagram.com/lipika_112006?igsh=OW0yOXhkMnE3Z2Zv&utm_source=qr))
-**Email** → lipikabansal11@gmail.com
 
+**LinkedIn** → [Lipika](https://www.linkedin.com/in/lipika-bansal-605a0a323/)
+
+**Instagram** → [@lipika112006](https://www.instagram.com/lipika_112006?igsh=OW0yOXhkMnE3Z2Zv&utm_source=qr)
+
+**Email** → lipikabansal11@gmail.com
